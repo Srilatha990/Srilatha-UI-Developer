@@ -1,0 +1,12 @@
+{
+  "name": "srilatha-ui-developer",
+  "version": "1.0.0",
+  "description": "Iam a Full Stack UI Developer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
